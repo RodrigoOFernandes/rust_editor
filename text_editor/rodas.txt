@@ -1,1 +1,4 @@
-My godddd
+int main(){
+	println!("Eita porra");
+}saasasnasdninnsdnasnnsa
+ilsadsads
