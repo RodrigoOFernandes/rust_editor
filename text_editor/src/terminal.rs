@@ -39,7 +39,7 @@ pub fn handle_terminal_input(mut input_str: String, file_name: &String) -> io::R
         }
 
         print!("{}{}", cursor::Goto(1, 1), termion::clear::All);
-        println!("Start typing (press ESC to save and exit, CTL-C to exit without saving):");
+        println!("Start typing (press ESC to save and exit, CTL-C to exit without saving, and Alt+LeftArrow to just save):");
 
         for (i, line) in input_str.lines().enumerate() {
             print!("{}{}{}{}{}", style::Invert, color::Fg(color::LightWhite), cursor::Goto(0, 3 + i as u16), line, style::Reset);
