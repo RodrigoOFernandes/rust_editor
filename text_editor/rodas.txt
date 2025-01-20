@@ -1,8 +1,0 @@
-int main(){
-	println!("Eita porra");
-}saasasnasdninnsdnasnnsa
-ilsadsadsaksa
-
- 
-kjasidjasjdojaso
-maniga
