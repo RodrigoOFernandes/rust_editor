@@ -1,4 +1,4 @@
-Terminal Text Editor
+#Terminal Text Editor
 
 
 
@@ -6,7 +6,7 @@ A simple Rust-based terminal application for editing and managing text files. Th
 
 
 
-Features:
+##Features:
 
 
 
@@ -18,7 +18,7 @@ Edit and save the file contents using a TUI.
 
 
 
-Prerequisites:
+##Prerequisites:
 
 
 
@@ -31,7 +31,7 @@ $ cd text_editor
 
 
 
-Running the Program:
+##Running the Program:
 
 
 
@@ -45,7 +45,7 @@ The program will display the current file contents (if any) and allow you to edi
 
 
 
-Key Bindings:
+##Key Bindings:
 
 
 
@@ -69,7 +69,7 @@ src/file.rs: Handles file-related operations like opening, reading, and writing 
 
 
 
-License:
+##License:
 
 
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
 
 
 
-Acknowledgments:
+##Acknowledgments:
 
 
 
