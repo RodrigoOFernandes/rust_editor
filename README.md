@@ -35,8 +35,7 @@ The program will display the current file contents (if any) and allow you to edi
 | Key Combination       | Action                          |
 |------------------------|---------------------------------|
 | `ESC`                 | Save and exit the editor       |
-| `Backspace`           | Delete the last character      |
-| `Enter`               | Insert a newline              |
+| `CTRL-C`              | Exit without saving      |
 | `Alt + Left Arrow`    | Save the file without exiting  |
 
 
