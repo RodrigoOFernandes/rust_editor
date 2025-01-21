@@ -17,10 +17,10 @@ A **simple and lightweight terminal-based text editor** written in Rust with the
 
 1. Install Rust: [Get Rust](https://www.rust-lang.org/tools/install)
 2. Clone this repository to your local machine:
-   ```
+```
    $ git clone <repository_url>
    $ cd text_editor
-
+```
 
 ## 🚀 Running the Program
 
